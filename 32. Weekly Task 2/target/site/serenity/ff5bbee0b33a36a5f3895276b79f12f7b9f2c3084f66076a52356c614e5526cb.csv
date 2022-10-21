@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product","Get All Product with valid url and category","SUCCESS","2022-10-20T12:47:13.2013856+07:00[Asia/Bangkok]","0.0","39.72"
+"Product","Get All Product with id","SUCCESS","2022-10-20T12:47:53.1307018+07:00[Asia/Bangkok]","0.0","0.76"
+"Product","Get All Product with price","SUCCESS","2022-10-20T12:47:53.9065673+07:00[Asia/Bangkok]","0.0","0.86"
+"Product","Get All Product with description","SUCCESS","2022-10-20T12:47:54.7941231+07:00[Asia/Bangkok]","0.0","0.61"
